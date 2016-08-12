@@ -1,0 +1,22 @@
+.svn/
+.idea/
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+/_mac/
+/codestyles/*
+!/codestyles/Binary Evolution Code Standard.xml
+/colors
+/keymaps
+/templates/*
+!/templates/Genome.xml
+!/templates/Helix.xml
+!/templates/Eco.xml
+/*.xml
+code.style.schemes
+!/code.style.schemes.xml
